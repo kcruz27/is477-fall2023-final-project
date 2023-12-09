@@ -1,0 +1,25 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0008-8835-4108",
+            "name": "Cruz, Kyle"
+        }
+    ],
+    "license": "MIT License",
+    "title": "is477-fall2023-final-project",
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C56S3T",
+            "relation": "cites",
+            "resource_type": "dataset"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/kcruz27/is477-fall2023-final-project",
+            "relation": "isSupplementTo",
+            "resource_type": "Software"
+        }
+
+    ]
+}
