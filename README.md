@@ -1,5 +1,7 @@
 # is477-fall2023-final-project
 
+[DOI: 10.5281/zenodo.10315200](https://doi.org/10.5281/zenodo.10315200)
+
 ## Overview
 
 The project focuses on modeling wine quality based on physicochemical tests using two datasets related to red and white vinho verde wine samples from the north of Portugal. The dataset, sourced from [Cortez et al., 2009], includes various features such as acidity, residual sugar, and alcohol content, with wine quality being the target variable.
